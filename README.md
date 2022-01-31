@@ -26,6 +26,7 @@ To end the app, use ^C (<kbd>Control</kbd> + <kbd>C</kbd>)
 
 
 ### Have a problem? Report it at the `Issues` section on our GitHub page
-News and more: https://groups.google.com/g/nodeworld
+### News and more: https://groups.google.com/g/nodeworld
+
 ---
 Copyright (c) 2022 Arjun J. All Rights Reserved.
